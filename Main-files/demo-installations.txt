@@ -1,0 +1,15 @@
+1. Download package from codecanyon
+2. Unzip the main-files and then copy the worketic folder and paste it on your local server
+3. Start editing your .env file located in downloaded folder. Please make sure you have added the  
+Correct database name, username and password. And copy the env file and paste into your project
+3. Go to your project root level and run command > composer update
+4. When composer update get completed then run this command (start server) > php artisan serve
+5. Then type in your browser http://localhost:8000/install
+
+And follow the instructions and wait while your demo is being import
+
+
+Checkout Installation Video Guide: https://www.youtube.com/watch?v=et-zc6OhawU
+
+For more information's you can post a query on support forum. 
+https://amentotech.ticksy.com/
