@@ -26,7 +26,7 @@
     "dependencies": {
         "bootstrap-vue": "^2.0.0-rc.13",
         "cors": "^2.8.5",
-        "express": "^4.16.4",
+        "express": "^4.17.3",
         "fs": "0.0.1-security",
         "lang.js": "^1.1.14",
         "pc-bootstrap4-datetimepicker": "^4.17.50",
